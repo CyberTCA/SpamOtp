@@ -4,10 +4,10 @@ Saya Mohon Jangan di recode yh Hargai Pembuat Script nya
 #Terima kasih
 
 # install
-pkg install php git
-git clone https://github.com/CyberTCA/SpamOtp
-cd SpamOtp
-php SpamOtp.php
+$ pkg install php git
+$ git clone https://github.com/CyberTCA/SpamOtp
+$ cd SpamOtp
+$ php SpamOtp.php
 
 Contac me : 083813844572
 Chat Boleh Asal Jangan Banyak Tanya Karna Sibuk Yang lain
